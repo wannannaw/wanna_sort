@@ -1,0 +1,6 @@
+version=0.01
+title=Wanna PZ
+description=This is  my base project zomboid Template
+description=
+tags=
+visibility=hidden
