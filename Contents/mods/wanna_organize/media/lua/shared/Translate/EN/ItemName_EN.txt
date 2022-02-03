@@ -1,0 +1,124 @@
+ItemName_EN = {
+
+-- Skill Book
+-- Carpentry
+ItemName_Base.BookCarpentry1 = "Carpentry V1: Beginner",
+ItemName_Base.BookCarpentry2 = "Carpentry V2: Intermediate",
+ItemName_Base.BookCarpentry3 = "Carpentry V3: Advanced",
+ItemName_Base.BookCarpentry4 = "Carpentry V4: Expert",
+ItemName_Base.BookCarpentry5 = "Carpentry V5: Master",
+
+-- Cooking
+ItemName_Base.BookCooking1 = "Cooking V1: Beginner",
+ItemName_Base.BookCooking2 = "Cooking V2: Intermediate",
+ItemName_Base.BookCooking3 = "Cooking V3: Advanced",
+ItemName_Base.BookCooking4 = "Cooking V4: Expert",
+ItemName_Base.BookCooking5 = "Cooking V5: Master",
+
+-- Electrical 
+ItemName_Base.BookElectrician1 = "Electrical V1: Beginner",
+ItemName_Base.BookElectrician2 = "Electrical V2: Intermediate",
+ItemName_Base.BookElectrician3 = "Electrical V3: Advanced",
+ItemName_Base.BookElectrician4 = "Electrical V4: Expert",
+ItemName_Base.BookElectrician5 = "Electrical V5: Master",
+
+-- Farming
+ItemName_Base.BookFarming1 = "Farming V1: Beginner",
+ItemName_Base.BookFarming2 = "Farming V2: Intermediate",
+ItemName_Base.BookFarming3 = "Farming V3: Advanced",
+ItemName_Base.BookFarming4 = "Farming V4: Expert",
+ItemName_Base.BookFarming5 = "Farming V5: Master",
+
+-- First Aid
+ItemName_Base.BookFirstAid1 = "First Aid V1: Beginner",
+ItemName_Base.BookFirstAid2 = "First Aid V2: Intermediate",
+ItemName_Base.BookFirstAid3 = "First Aid V3: Advanced",
+ItemName_Base.BookFirstAid4 = "First Aid V4: Expert",
+ItemName_Base.BookFirstAid5 = "First Aid V5: Master",
+
+-- Fishing
+ItemName_Base.BookFishing1 = "Fishing V1: Beginner",
+ItemName_Base.BookFishing2 = "Fishing V2: Intermediate",
+ItemName_Base.BookFishing3 = "Fishing V3: Advanced",
+ItemName_Base.BookFishing4 = "Fishing V4: Expert",
+ItemName_Base.BookFishing5 = "Fishing V5: Master",
+
+-- Foraging
+ItemName_Base.BookForaging1 = "Foraging V1: Beginner",
+ItemName_Base.BookForaging2 = "Foraging V2: Intermediate",
+ItemName_Base.BookForaging3 = "Foraging V3: Advanced",
+ItemName_Base.BookForaging4 = "Foraging V4: Expert",
+ItemName_Base.BookForaging5 = "Foraging V5: Master",
+
+-- Mechanics
+ItemName_Base.BookMechanic1 = "Mechanics V1: Beginner",
+ItemName_Base.BookMechanic2 = "Mechanics V2: Intermediate",
+ItemName_Base.BookMechanic3 = "Mechanics V3: Advanced",
+ItemName_Base.BookMechanic4 = "Mechanics V4: Expert",
+ItemName_Base.BookMechanic5 = "Mechanics V5: Master",
+
+-- Metalworking
+ItemName_Base.BookMetalWelding1 = "Metalworking V1: Beginner",
+ItemName_Base.BookMetalWelding2 = "Metalworking V2: Intermediate",
+ItemName_Base.BookMetalWelding3 = "Metalworking V3: Advanced",
+ItemName_Base.BookMetalWelding4 = "Metalworking V4: Expert",
+ItemName_Base.BookMetalWelding5 = "Metalworking V5: Master",
+
+-- Tailoring
+ItemName_Base.BookTailoring1 = "Tailoring V1: Beginner",
+ItemName_Base.BookTailoring2 = "Tailoring V2: Intermediate",
+ItemName_Base.BookTailoring3 = "Tailoring V3: Advanced",
+ItemName_Base.BookTailoring4 = "Tailoring V4: Expert",
+ItemName_Base.BookTailoring5 = "Trapping V5: Master",
+
+-- Trapping
+ItemName_Base.BookTrapping1 = "Trapping V1: Beginner",
+ItemName_Base.BookTrapping2 = "Trapping V2: Intermediate",
+ItemName_Base.BookTrapping3 = "Trapping V3: Advanced",
+ItemName_Base.BookTrapping4 = "Trapping V4: Expert",
+ItemName_Base.BookTrapping5 = "Trapping V5: Master",
+
+
+-- Recipe Magazine
+-- Cooking
+ItemName_Base.CookingMag1 = "Cooking Magazine V1 I1",
+ItemName_Base.CookingMag2 = "Cooking Magazine V1 I2",
+
+-- Electrical
+ItemName_Base.ElectronicsMag1 = "Electrical Magazine V1 I1",
+ItemName_Base.ElectronicsMag2 = "Electrical Magazine V1 I2",
+ItemName_Base.ElectronicsMag3 = "Electrical Magazine V1 I3",
+ItemName_Base.ElectronicsMag4 = "Electrical Magazine V1 I4",
+ItemName_Base.ElectronicsMag5 = "Electrical Magazine V2 I1",
+ItemName_Base.EngineerMagazine1 = "Electrical Magazine V2 I1",
+ItemName_Base.EngineerMagazine2 = "Electrical Magazine V2 I2",
+ItemName_Radio.RadioMag1 = "Electrical Magazine V2 I3",
+ItemName_Radio.RadioMag2 = "Electrical Magazine V2 I4",
+ItemName_Radio.RadioMag3 = "Electrical Magazine V3 I1",
+
+-- Farming
+ItemName_Base.FarmingMag1 = "Farmers Almanac V1 I1",
+
+-- Fishing
+ItemName_Base.FishingMag1 = "Fishing Magazine V1 I1",
+ItemName_Base.FishingMag2 = "Fishing Magazine V1 I2",
+
+-- Foraging
+ItemName_Base.HerbalistMag = "Foraging Magazine V1 I1",
+
+-- Mechanics
+ItemName_Base.MechanicMag1 = "Mechanics Magazine V1 I1",
+ItemName_Base.MechanicMag2 = "Mechanics Magazine V1 I2",
+ItemName_Base.MechanicMag3 = "Mechanics Magazine V1 I3",
+
+-- Metalworking
+ItemName_Base.MetalworkMag1 = "Metalworking Magazine V1 I1",
+ItemName_Base.MetalworkMag2 = "Metalworking Magazine V1 I2",
+ItemName_Base.MetalworkMag3 = "Metalworking Magazine V1 I3",
+ItemName_Base.MetalworkMag4 = "Metalworking Magazine V1 I4",
+
+-- Trapping
+ItemName_Base.HuntingMag1 = "Trapping Magazine V1 I1",
+ItemName_Base.HuntingMag2 = "Trapping Magazine V1 I2",
+ItemName_Base.HuntingMag3 = "Trapping Magazine V1 I3",
+}

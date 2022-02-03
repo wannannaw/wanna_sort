@@ -1,0 +1,6 @@
+version=0.02
+id=2737634755
+title=Wanna Organize?
+description=This is a mod that renames items and adds sorting categories
+tags=Build 41;Clothing/Armor;Food;Items;Literature;Misc
+visibility=private
